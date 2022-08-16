@@ -60,6 +60,14 @@ The notebooks are designed to be simple, practical, and easily extensible. You c
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width = '100' >
 </a></td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">Pytroch Tutorial Example</td>
+    <td class="tg-yw4l">Learn how to use the PyTorch machine learning framework.
+</td>
+    <td class="tg-yw4l"><a href="https://nbviewer.org/github/amdjedbens/ML_notebooks_implementation/blob/main/pytorch_tutorial.ipynb">
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width = '100' >
+</a></td>
+  </tr>
  
   </table> 
   
@@ -73,4 +81,3 @@ The notebooks are designed to be simple, practical, and easily extensible. You c
 If you find any bugs or have any questions regarding these notebooks, please open an issue. We will address it as soon as we can. 
 
 - Reach out on Twitter [@AmdjedBensalah](https://twitter.com/amdjedbensalah)  if you have any questions. 
-
